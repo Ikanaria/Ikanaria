@@ -38,8 +38,8 @@
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ikanaria&show_icons=true&custom_title=Franziskas%20GitHub%20Stats&theme=tokyonight&hide_border=true&bg_color=0d1a0d&title_color=81c784&icon_color=388e3c&text_color=c8e6c9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikanaria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a0d&title_color=81c784&text_color=c8e6c9" width="40%"/>
+<img src="https://github-readme-stats-three-phi-72.vercel.app/api?username=Ikanaria&show_icons=true&custom_title=Franziskas%20GitHub%20Stats&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1a0d&title_color=81c784&icon_color=388e3c&text_color=c8e6c9" width="48%"/>
+<img src="https://github-readme-stats-three-phi-72.vercel.app/api/top-langs/?username=Ikanaria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1a0d&title_color=81c784&text_color=c8e6c9" width="40%"/>
 
 ---
 
