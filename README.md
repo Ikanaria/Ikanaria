@@ -49,11 +49,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikanaria&theme=tokyonight&hide_border=true&background=0d1a0d&stroke=81c784&ring=2e7d32&fire=4caf50&currStreakLabel=81c784&sideLabels=81c784&dates=2d6a2d"/>
 
 ---
-
 <!-- CONTRIBUTION GRAPH -->
 ### 🌐 Contribution Graph
 
-[![Franziska's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikanaria&bg_color=0d1a0d&color=81c784&line=2e7d32&point=c8e6c9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Franziskas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ikanaria&bg_color=0d1a0d&color=81c784&line=2e7d32&point=c8e6c9&area=true&hide_border=true&custom_title=Franziskas%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
