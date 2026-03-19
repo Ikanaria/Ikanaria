@@ -59,7 +59,7 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1a0d?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://linkedin.com/in/franziska-t-a0428a2b6)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d1a0d?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://www.kaggle.com/DEIN-KAGGLE-USERNAME)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d1a0d?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://www.kaggle.com/ikanaria)
 
 <!-- FOOTER -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a3d1a,50:0d2b0d,100:0d1a0d&height=100&section=footer)
